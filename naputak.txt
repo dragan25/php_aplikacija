@@ -1,0 +1,4 @@
+Aplikaciji nije ugradjen PDO koncept komunikacije sa bazom. Dalje, objektno
+nisu obradjene pretraga unutar aplikacije (search), te upravljanje vijsetima i
+komentarima, te redirekcije stranica pri urednjivanjima i brisanjima komentara
+takodjer nisu dobro sredjene.
